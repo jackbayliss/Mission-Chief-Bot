@@ -1,11 +1,2 @@
 {
-    "gerekli i\u0307tfaiye ara\u00e7lar\u0131" : [0,1],
-    "gerekli platformlu kamyonlar" : [2],
-    "gerekli tabur amiri ara\u00e7lar\u0131" : [3],
-    "maks. hastalar" : [5],
-    "gerekli b\u00fcy\u00fck kurtarma ara\u00e7lar\u0131" : [4],
-    "gerekli su tankerleri" : [6],
-    "gerekli tehlikeli madde ara\u00e7lar\u0131": [7],
-    "gerekli polis arabalar\u0131" : [8]
- }
-    
+}

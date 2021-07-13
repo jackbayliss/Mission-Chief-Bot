@@ -1,21 +1,2 @@
 {
-    "aps/abp" : [0, 9],
-    "autoscale": [1],
-    "funzionari": [2],
-    "unit\u00e0 polisoccorso" : [3, 9],
-    "ambulance" : [4],
-    "max pazienti" : [4],
-    "kilolitriche": [5],
-    "nbcr": [6],
-    "pattuglie" : [7],
-    "elisoccorso": [8],
-    "carro aria": [10],
-    "ucl": [11],
-    "autogr\u00f9": [12],
-    "elicottero della polizia": [13],
-    "furgone antisommossa": [14],
-    "unit\u00e0 cinofila antidroga": [15],
-    "moto della Polizia": [16],
-	"uopi suv": [17]
-	
 }
