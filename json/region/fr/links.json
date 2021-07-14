@@ -1,13 +1,2 @@
 {
-	"fourgons d\u2019incendie" : [0, 1, 12],
-	"moyen el\u00e9vateur a\u00e9rien": [2,14],
-	"chefs de groupe" : [3],
-	"postes de secours" : [5],
-	"max. patients": [5],
-	"camions-citernes" : [6],
-	"v\u00e9hicules risques technologiques": [7],
-	"voitures de police es": [8],
-	"vtu" : [13],
-	"sp\u00e9cialistes imp" : [14],
-	"v\u00e9hicule de secours routier" : [4,12]
 }

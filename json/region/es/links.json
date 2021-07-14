@@ -1,20 +1,2 @@
 {
-    "camiones de bomberos" : [0, 1],
-    "camión de bomberos" : [0, 1],
-    "camión ae" : [2],
-    "camiones con plataforma" : [4],
-    "unidades de mando y comunicaciones" : [11],
-    "furgones de útiles varios" : [],
-    "Vehículo aéreo" : [10],
-    "Unidad logística de AMV" : [19],
-    "Ambulancia" : [5],
-    "ambulance" : [5],
-    "Unidad Canina" : [16],
-    "Coche patrulla" : [8, 16],
-    "coches patrulla" : [8, 16],
-    "Unidad GEO" : [14, 15],
-    "Unidad Antidisturbios" : [14],
-    "Moto de Policía" : [17],
-    "Camión TPP" : [7],
-    "Camión BNP" : [6]
 }
